@@ -18,6 +18,6 @@ Head of ASUP Department
 * 2018        
 Interactive courses — HTML Academy
 * 2019 - Present       
-Online Courses(js, Node.js, React)
+Online Courses (js, Node.js, React)
 ### 8. Level of English
 * No communication experience. It is mainly used for reading documentation.
