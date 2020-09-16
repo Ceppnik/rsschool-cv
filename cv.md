@@ -13,7 +13,9 @@ After 5 years of working as a logistician, I decided to try myself as a develope
 ###### 6. Work experience
 * 2019 - Present  Head of ASUP Department
 ###### 7. Education
-* 2018        Interactive courses — HTML Academy
-* 2019 - Present         Online Courses(js, Node.js, React)
+* 2018        
+Interactive courses — HTML Academy
+* 2019 - Present       
+Online Courses(js, Node.js, React)
 ###### 8. Level of English
 * No communication experience. It is mainly used for reading documentation.
