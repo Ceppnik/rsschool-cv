@@ -9,9 +9,11 @@ After 5 years of working as a logistician, I decided to try myself as a develope
 * SQL (Postgres, Firebird)
 * js
 * Hibernate
-### 5. Code samples https://github.com/Nikorda/rsschool-cv
+### 5. Code samples 
+https://github.com/Nikorda/rsschool-cv
 ### 6. Work experience
-* 2019 - Present  Head of ASUP Department
+* 2019 - Present  
+Head of ASUP Department
 ### 7. Education
 * 2018        
 Interactive courses — HTML Academy
