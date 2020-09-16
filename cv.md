@@ -14,7 +14,7 @@ For the last two years, I have been actively developing a desktop ERP system for
 * 2019 - Present  Head of ASUP Department
 
 1. Education
-* 2118 Interactive courses — HTML Academy
+* 2018 Interactive courses — HTML Academy
 * 2019 - Present Online Courses(js, Node.js, React)
 1. Level of English
 * No communication experience. It is mainly used for reading documentation.
